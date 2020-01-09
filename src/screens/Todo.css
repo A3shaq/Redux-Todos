@@ -1,0 +1,50 @@
+
+.inputContent{
+    margin: auto;
+    /* margin: 20px 0px 0px 0px; */
+    padding: 40px 0px 20px 0px;
+}
+
+.inputAddList{
+    margin: 30px 0px !important;
+ 
+}
+.listItems{
+
+    margin: 10px 0px 10px 11px;
+}
+
+.btn-add{
+
+    float: right;
+    margin: 30px;
+    font-size: 13px;
+   margin:  70px 20px 0px 0px
+
+} 
+
+.list-group{
+    width: 40%;
+    /* height: 24vh; */
+    margin: 60px 60px 20px 60px;
+    /* border: solid; */
+
+}
+
+/* .btn-Update{
+    float: left;
+} */
+
+.btn-delete{
+
+    float: right;
+    margin: auto;
+}
+
+.todosListItems{
+    width: 65%;
+    display:" inline-block";
+    margin-right: 20px;
+    padding: 5px 10px;
+    
+}
